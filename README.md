@@ -9,7 +9,7 @@ This utility has no dependencies, and is made to speed up overwriting the same f
 
 ## Example
 ```typescript
-import { FastWriter } from 'https://deno.land/x/fast-writer/mod.ts'
+import { FastWriter } from 'https://deno.land/x/fastwriter/mod.ts'
 
 // Initialize writer
 const writer = new FastWriter('./my-file.txt');
